@@ -4,8 +4,8 @@
         "name": "gateway-service"
     },
     "apps": [{
-        "root": "src/main/webapp",
-        "outDir": "target/www/app",
+        "root": "src/main/webapp/",
+        "outDir": "target/www/",
         "assets": [
             "content",
             "favicon.ico"
